@@ -28,7 +28,7 @@ You can check out the live version of the app here: [Random Quote Generator](htt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-quote-generator.git
+   git clone https://github.com/Sanuthb/Random_quote.git
 
 2. Install dependencies::
    ```bash
