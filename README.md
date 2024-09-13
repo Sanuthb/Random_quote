@@ -1,8 +1,45 @@
-# React + Vite
+# Random Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Random Quote Generator web application built using React and Vite. The application fetches random quotes and displays them on the screen. You can click the button to get a new random quote.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can check out the live version of the app here: [Random Quote Generator](https://random-quote-hazel-eight.vercel.app/)
+
+## Features
+
+- Displays a random quote on page load.
+- Built with React and Vite for fast development.
+- Deployed on Vercel.
+
+## Tech Stack
+
+- **Frontend**: React, Vite
+- **Deployment**: Vercel
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your machine.
+- npm or yarn as a package manager.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/random-quote-generator.git
+
+2. Install dependencies::
+   ```bash
+   npm install
+   # or if you're using yarn
+   yarn install
+
+3. Running the App Locally:
+    ```bash
+    npm run dev
+    # or with yarn
+    yarn dev
+
+4. Open your browser and go to http://localhost:3000.
